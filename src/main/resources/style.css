@@ -4,5 +4,7 @@ body {
  text-align: center;
  }
  header img {
- width: 50px;
+ width: 100rem;
+ height:100rem;
+ position:flex;
  }
